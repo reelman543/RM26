@@ -1,0 +1,32 @@
+name: ⚽ Spor Kanalları Güncelleme
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update_playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo'yu Klonla
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Bağımlılıkları Kur
+        run: pip install -r requirements.txt
+
+      - name: M3U Oluştur
+        run: python main.py
+
+      - name: Playlist'i Yükle
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add cafe.m3u
+          git commit -m "🎯 Otomatik güncelleme"
+          git push

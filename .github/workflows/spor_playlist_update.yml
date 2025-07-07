@@ -1,0 +1,33 @@
+name: 🔄 Günlük Spor ve Müzik M3U8 Güncelle
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # ⏰ Her 6 saatte bir UTC
+  workflow_dispatch:        # ✅ Manuel tetikleme
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Repo'yu Klonla
+        uses: actions/checkout@v3
+
+      - name: 🐍 Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 🔧 Bağımlılıkları Kur
+        run: pip install requests
+
+      - name: ▶️ Scripti Çalıştır
+        run: python iptv_spor_muzik.py
+
+      - name: 💾 Değişiklikleri Kaydet ve Gönder
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add spor.m3u8
+          git commit -m "🎯 Otomatik spor.m3u8 güncellemesi: $(date '+%Y-%m-%d %H:%M:%S')" || echo "Değişiklik yok"
+          git push

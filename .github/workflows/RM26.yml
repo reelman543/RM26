@@ -27,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -U setuptools wheel Kekik httpx parsel requests
           
-      - name: sentv.py Çalıştır
+      - name: RM26.py Çalıştır
         run: python RM26.py
 
 

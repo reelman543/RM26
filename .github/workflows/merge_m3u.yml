@@ -1,4 +1,4 @@
-name: Merge M3U Files
+name: Merge m3u.py
 
 on:
   schedule:

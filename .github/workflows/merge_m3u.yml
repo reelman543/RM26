@@ -1,0 +1,33 @@
+name: Merge M3U Files
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # UTC saatine göre her gün 03:00'te çalışır (Türkiye saatiyle 06:00)
+  workflow_dispatch:
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Kodu checkout et
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Gereksinimleri yükle (isteğe bağlı)
+        run: pip install requests
+
+      - name: Python betiğini çalıştır
+        run: python merge_m3u.py
+
+      - name: Çıktı dosyasını commitle
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sentv.m3u
+          git commit -m "🆕 Günlük M3U birleştirmesi - $(date '+%Y-%m-%d %H:%M:%S')" || echo "Değişiklik yok"
+          git push

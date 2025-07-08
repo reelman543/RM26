@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-# Last forced update: 2025-07-07T22:54:18.222528Z
+# Last forced update: 2025-07-07T23:58:59.496399Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png" group-title="24/7 by Mystique" radio="false",Amphibia 24/7
@@ -686,6 +686,52 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium834%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1  tvg-id="TVO.(TV.Ontario).HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tvo-ca.png?raw=true" group-title="DaddyLive CA",TVO CA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium842%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
+#EXTGRP:DaddyLive Global Sports
+#EXTINF:-1  tvg-id="Astro.Grandstand.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png?raw=true" group-title="DaddyLive Global Sports",Astro SuperSport 1
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium123%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Astro.Football.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png?raw=true" group-title="DaddyLive Global Sports",Astro SuperSport 2
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium124%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Astro.Premier.League.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png?raw=true" group-title="DaddyLive Global Sports",Astro SuperSport 3
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium125%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Astro.Premier.League.2.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png?raw=true" group-title="DaddyLive Global Sports",Astro SuperSport 4
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium126%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Star.Sports.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="DaddyLive Global Sports",Star Sports 1 IN
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium267%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Star.Sports.Hindi.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" group-title="DaddyLive Global Sports",Star Sports Hindi IN
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium268%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Action.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-action-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Action
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium420%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Sky.Sports.Cricket.ie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Cricket
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium368%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Football.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-football-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Football
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium56%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Sky.Sports.Golf.ie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Golf
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium422%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Grandstand.Africa.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-grandstand-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Grandstand
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium412%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.LaLiga.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-laliga-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport LaLiga
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium415%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Maximo.1.(P).ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport MaXimo 1
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium572%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Motorsport.Africa.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Motorsport
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium424%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Premier.League.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-psl-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Premier League
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium413%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Premier.League.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-psl-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport PSL
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium413%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Football.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-rugby-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Rugby
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium421%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Tennis
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium423%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Variety.1.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety1-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Variety 1
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium416%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Variety.2.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety2-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Variety 2
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium417%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Variety.3.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety3-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Variety 3
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium418%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
+#EXTINF:-1  tvg-id="SS.Variety.4.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety4-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport Variety 4
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium419%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
 
 #EXTGRP:DaddyLive NZ
 #EXTINF:-1  tvg-id="Sky.Sport.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-hz-nz.png?raw=true" group-title="DaddyLive NZ",Sky Sport 1 NZ
@@ -4265,52 +4311,6 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/247
 #EXTINF:-1  tvg-id="YES.Network.us" tvg-logo="http://lonewolftvpr.com/logos/yes.png" group-title="Mystique USA" radio="false",Yes Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
 
-#EXTGRP:Other
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png?raw=true" group-title="",Astro SuperSport 1
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium123%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png?raw=true" group-title="",Astro SuperSport 2
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium124%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png?raw=true" group-title="",Astro SuperSport 3
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium125%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png?raw=true" group-title="",Astro SuperSport 4
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium126%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Star.Sports.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="",Star Sports 1 IN
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium267%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Star.Sports.Hindi.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" group-title="",Star Sports Hindi IN
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium268%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Action.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-action-bug-za.png?raw=true" group-title="",SuperSport Action
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium420%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Sky.Sports.Cricket.ie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="",SuperSport Cricket
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium368%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Football.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-football-za.png?raw=true" group-title="",SuperSport Football
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium56%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.ie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="",SuperSport Golf
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium422%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Grandstand.Africa.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-grandstand-bug-za.png?raw=true" group-title="",SuperSport Grandstand
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium412%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.LaLiga.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-laliga-bug-za.png?raw=true" group-title="",SuperSport LaLiga
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium415%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Maximo.1.(P).ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="",SuperSport MaXimo 1
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium572%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Motorsport.Africa.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="",SuperSport Motorsport
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium424%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Premier.League.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-psl-bug-za.png?raw=true" group-title="",SuperSport Premier League
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium413%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Premier.League.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-psl-bug-za.png?raw=true" group-title="",SuperSport PSL
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium413%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Football.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-rugby-bug-za.png?raw=true" group-title="",SuperSport Rugby
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium421%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="",SuperSport Tennis
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium423%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Variety.1.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety1-bug-za.png?raw=true" group-title="",SuperSport Variety 1
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium416%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Variety.2.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety2-bug-za.png?raw=true" group-title="",SuperSport Variety 2
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium417%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Variety.3.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety3-bug-za.png?raw=true" group-title="",SuperSport Variety 3
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium418%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-#EXTINF:-1 tvg-id="SS.Variety.4.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety4-bug-za.png?raw=true" group-title="",SuperSport Variety 4
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium419%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8veW94cGxheS54eXp8UmVmZXJlcj1odHRwczovL3lveHBsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjA%3D
-
 #EXTGRP:PlexTV
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="PlexTV",123GO!
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -7295,32 +7295,118 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" tvg-chno="4030" group-title="PlutoTV USA",Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
+#EXTGRP:PPVLand - Baseball Action HD
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Cleveland Guardians vs. Houston Astros
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=gDovSfTKknfRH195p_DOgA&expires=1751980266&t=1751937066
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Colorado Rockies vs. Boston Red Sox
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM3YjUwMzQxMDZmLTZiZDktY2E4NC1lNzZkLWNiNmNlOGUw/master.m3u8?md5=SqxmaGiT9zPgm5qngsTO_w&expires=1751980218&t=1751937018
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Los Angeles Dodgers vs. Milwaukee Brewers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=YyokYQpYZX7MoB_b9E95nw&expires=1751980237&t=1751937037
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Miami Marlins vs. Cincinnati Reds
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=26Wm8A6OVXN8PteJjx5VLQ&expires=1751980228&t=1751937028
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Pittsburgh Pirates vs. Kansas City Royals
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=APzTO0EoP0dU8xKgMBrRhg&expires=1751980247&t=1751937047
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Tampa Bay Rays vs. Detroit Tigers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=ard49mdhdvdCfRC1XuDDfA&expires=1751980208&t=1751937008
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Toronto Blue Jays vs. Chicago White Sox
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=94Cm9R2fFtqwXgqIDXKgDA&expires=1751980256&t=1751937056
+
+#EXTGRP:PPVLand - Basketball Hub
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Grizzlies at Jazz
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZWM2M2M4NGQzYzk4LTExOTgtZjMzNC1iNThkLWI2ZWEzMjM2/master.m3u8?md5=3Nedf6RjcA3ljlc7MbbdZQ&expires=1751980320&t=1751937120
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Thunder at 76ers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZjY1YzBmMDZmNGU3LWZiMzgtYWI2NC0wYTJkLTEzMmVjYTdh/master.m3u8?md5=CarF78GoI7v2QDP9KN1UHA&expires=1751980302&t=1751937102
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Valkyries at Dream
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Nzg0YThjYjExMjM5LWRjNmEtOGRmNC05ODQ5LWExNTFhZDU1/master.m3u8?md5=OrFCLKg1mJIf9RVccjYWsw&expires=1751980311&t=1751937111
+
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=2YtjCH7xbUsEoBItfJSU2g&expires=1751958405&t=1751915205
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=98D99D9em7HMHFqxg2updg&expires=1751980490&t=1751937290
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=ZVQkNouIMjGFmEzFlRRlIQ&expires=1751958379&t=1751915179
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=8vsseYlC8oDk-dZbcCF-NQ&expires=1751980464&t=1751937264
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ID2c3aWq9QWO8-6m-pXTMA&expires=1751958387&t=1751915187
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ruVIR6qe_69LcFS_WuOmsg&expires=1751980472&t=1751937272
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=qk97ypkk3_ByrhBHIk_vpw&expires=1751958370&t=1751915170
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=wxImouoeX9K6W9LqIfV00g&expires=1751980455&t=1751937255
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=6rfKtYwxBaskJuU5vKzEsQ&expires=1751958396&t=1751915196
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=Iew6ruUu2qDWmshN6_XwZg&expires=1751980481&t=1751937281
+
+#EXTGRP:PPVLand - Wrestling Events
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=eTkAUVU4vTNg6Orju6S9dA&expires=1751980446&t=1751937246
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Wednesday Night Dynamite
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=cG7fFNbDPgUzpLJQ0edimg&expires=1751980418&t=1751937218
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",TNA: Impact
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=WCm16WH-u0E7mZs8-xIsFQ&expires=1751980427&t=1751937227
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=IF6HguIfP_YE0Nkbkr0ehw&expires=1751980436&t=1751937236
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=HTj0Xbf6ZaapwA6HE-i-1w&expires=1751980401&t=1751937201
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",WWE: NXT
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=ooHbQysNpwaFdKa0pIJqkg&expires=1751980409&t=1751937209
 
 #EXTGRP:SamsungTVPlus Canada
 #EXTINF:-1  tvg-name="21 Jump Street" tvg-id="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" tvg-chno="1600" group-title="SamsungTVPlus Canada",21 Jump Street
